@@ -29,7 +29,7 @@ export default function Page() {
       </div>
       {/* Wireframe */}
       <section className="mt-16 p-4 border-t border-gray-600 max-w-4xl mx-auto font-mono">
-        <h2 className="text-lg text-gray-400 mb-4 text-center">Wireframe</h2>
+        <h2 className="text-lg text-gray-400 mb-4 text-center"> Wireframe </h2>
         
         {/* Main Layout Container */}
         <div className="flex flex-col md:flex-row gap-4 border-2 border-dashed border-gray-600 p-4">
